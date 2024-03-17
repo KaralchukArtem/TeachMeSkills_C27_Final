@@ -1,0 +1,13 @@
+[INFO] - > 2024-03-17 23:10:36 - > Login and password verification was successful
+[INFO] - > 2024-03-17 23:10:42 - > started searching for folders with files - "searchFolderFiles"
+[INFO] - > 2024-03-17 23:10:42 - > end searching for folders with files - "searchFolderFiles"
+[INFO] - > 2024-03-17 23:10:42 - > start checking if the files are valid - "checkValidFiles"
+[INFO] - > 2024-03-17 23:10:42 - > start calculating turnover - "calculateTurnover"
+[INFO] - > 2024-03-17 23:10:42 - > end calculating turnover - "calculateTurnover"
+[INFO] - > 2024-03-17 23:10:42 - > start calculating turnover - "calculateTurnover"
+[INFO] - > 2024-03-17 23:10:42 - > end calculating turnover - "calculateTurnover"
+[INFO] - > 2024-03-17 23:10:42 - > start calculating turnover - "calculateTurnover"
+[INFO] - > 2024-03-17 23:10:42 - > end calculating turnover - "calculateTurnover"
+[INFO] - > 2024-03-17 23:10:42 - > end checking if the files are valid - "checkValidFiles"
+[INFO] - > 2024-03-17 23:10:42 - > started calculating the total turnover for all files - "calculateTotalTurnoverOnAllFiles"
+[INFO] - > 2024-03-17 23:10:42 - > end calculating the total turnover for all files - "calculateTotalTurnoverOnAllFiles"
