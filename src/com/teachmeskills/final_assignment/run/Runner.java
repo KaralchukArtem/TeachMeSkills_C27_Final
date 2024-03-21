@@ -17,6 +17,8 @@ public class Runner {
         while (true) {
             System.out.println("Введите логин и пароль :");
             System.out.print("Логин - ");
+
+
             String login = scanner.nextLine();
             System.out.print("Пароль - ");
             String password = scanner.nextLine();
